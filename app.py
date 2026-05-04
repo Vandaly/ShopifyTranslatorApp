@@ -1,6 +1,6 @@
 from flask import Flask, request
 from translator import translate_product
-from shopify_api import update_product
+from shopifyAPI import update_product
 import time
 
 app = Flask(__name__)

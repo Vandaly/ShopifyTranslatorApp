@@ -1,0 +1,14 @@
+{
+  "id": 12345,
+  "title": "Red cotton shirt",
+  "body_html": "<p>A comfortable shirt with a vibrant color. Sizes: Small, Medium, Large.</p>",
+  "options": [
+    {"name":"Color","values":["Red","#ff0000"]},
+    {"name":"Size","values":["Small","Medium","Large"]}
+  ],
+  "variants": [
+    {"id":1,"option1":"Red","option2":"Small"},
+    {"id":2,"option1":"#ff0000","option2":"Medium"}
+  ],
+  "tags": ""
+}
